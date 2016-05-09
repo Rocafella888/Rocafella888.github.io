@@ -1,7 +1,7 @@
-Worthy - Free Bootstrap Template
+USDA - Free Bootstrap Template
 =======================================================================
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
+USDA is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
 You can use it for corporate, business and agency webpages as well as 
 portfolio and personal webpages.
 
@@ -14,11 +14,11 @@ If you like the template and find it useful, please help us spread the word :-)
 
 Live Preview
 =======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+http://www.htmlcoder.me/preview/USDA/v.1.0
 
 License
 =======================================================================
-Worthy is released under the Creative Commons Attribution 3.0 License
+USDA is released under the Creative Commons Attribution 3.0 License
 https://creativecommons.org/licenses/by/3.0/
 
 Credits
